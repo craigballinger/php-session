@@ -1,7 +1,7 @@
 {
   "name": "syntactical/session",
-  "description": "Bare bones PDO drop in replacement for native PHP sessions",
-  "homepage": "https://github.com/craigballinger/origin-framework",
+  "description": "Bare bones drop in replacement for native PHP sessions with alternate storage repositories",
+  "homepage": "https://github.com/craigballinger/php-session",
   "authors": [
     {
       "name": "Craig Ballinger",
